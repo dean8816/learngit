@@ -2,6 +2,7 @@
 
 fn = r'D:\test.docx'
 doc = docx.Document(fn)
+print ("Hello Python")
 
 # 按段落读取全部数据
 # for paragraph in doc.paragraphs:
