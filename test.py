@@ -20,6 +20,8 @@ table_num = len(doc.tables)
 # 获取文档的表格个数
 print(table_num)
 
+a = 1000
+
 # table_0 = doc.tables[0]
 # # 选取第一个表
 # table_rows = len(table_0.rows)
